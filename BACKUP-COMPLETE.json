@@ -1,0 +1,335 @@
+{
+  "status": "complete",
+  "backup_version": "1.0.0",
+  "date": "2026-10-12",
+  "verified_files": [
+    {
+      "path": ".gitignore",
+      "sha256": "281b4d6a7be0fda1d65d9f3a4aad919f966b6d4ddb3fda7095e19ac2fd22ddda",
+      "size_bytes": 79
+    },
+    {
+      "path": "BACKUP-MANIFEST.json",
+      "sha256": "1b86c1e11380516089e8a2e522e727ee2e3dadca9041e9dfd42a4f52ad2b8a73",
+      "size_bytes": 6137
+    },
+    {
+      "path": "README.md",
+      "sha256": "24899053bfcc7198fe13c485d5af858fc5ca312bdd05f78ac246353332a124ff",
+      "size_bytes": 2515
+    },
+    {
+      "path": "android/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "size_bytes": 11358
+    },
+    {
+      "path": "android/README.md",
+      "sha256": "674d62a681683434eca015f7d330f2b3f7e4715e2ba1c1acb818fa23af806cf5",
+      "size_bytes": 4743
+    },
+    {
+      "path": "android/THIRD-PARTY-NOTICES.md",
+      "sha256": "be6cbe215cf6d7bc707a587adf30b731e4379ab13b6c9a55076845e4786d66a6",
+      "size_bytes": 1101
+    },
+    {
+      "path": "android/app/src/main/AndroidManifest.xml",
+      "sha256": "7c110fdd2bf3570a9c49529d134c6697a2dcdc12eadf4a6de8356c25205baa19",
+      "size_bytes": 1844
+    },
+    {
+      "path": "android/app/src/main/java/com/qianxia/backup/App.java",
+      "sha256": "6e3346a3be4ef8984e56bc2650d0b4a9d751a403c6958872f2368552312ca799",
+      "size_bytes": 770
+    },
+    {
+      "path": "android/app/src/main/java/com/qianxia/backup/BackupCrypto.java",
+      "sha256": "b967ec489a1ffa5ee7e25232f3343f8be5c7143ca4fa88fa783fbefb4343e01e",
+      "size_bytes": 4774
+    },
+    {
+      "path": "android/app/src/main/java/com/qianxia/backup/BackupEngine.java",
+      "sha256": "dbb21f4c411a3629ca12d1d49b7a4b747527cd9b63941c57f5621503956b5cda",
+      "size_bytes": 8939
+    },
+    {
+      "path": "android/app/src/main/java/com/qianxia/backup/BackupJob.java",
+      "sha256": "df2a0652ee7f53a3f83f5a48d3f78df4154d753113172f9e011ff67fcd8bae42",
+      "size_bytes": 2544
+    },
+    {
+      "path": "android/app/src/main/java/com/qianxia/backup/DavClient.java",
+      "sha256": "9dfdfe8db6399256bd0a5934088a94f532f0d71a08a4d03b8ca80bc3771b4bfd",
+      "size_bytes": 7990
+    },
+    {
+      "path": "android/app/src/main/java/com/qianxia/backup/FileOps.java",
+      "sha256": "13d489bca76fc1a792dec2ceacb15c7e9a2c416f17f3db7c39c7fb398782639b",
+      "size_bytes": 2488
+    },
+    {
+      "path": "android/app/src/main/java/com/qianxia/backup/InstallReceiver.java",
+      "sha256": "9620bc223fa8f14b631b5488345a9cf74b32603790ff01242e7e0242dd6ae9e8",
+      "size_bytes": 1389
+    },
+    {
+      "path": "android/app/src/main/java/com/qianxia/backup/Installer.java",
+      "sha256": "566e5d4869c10cb2f4f4aadc82292c20cab8389abd33f593cdd3b28a381af11a",
+      "size_bytes": 1897
+    },
+    {
+      "path": "android/app/src/main/java/com/qianxia/backup/MainActivity.java",
+      "sha256": "e18013107f216be5cac25876d30319a65bae5a4b8aa8430b53d4536fe7925267",
+      "size_bytes": 28356
+    },
+    {
+      "path": "android/app/src/main/java/com/qianxia/backup/ShareProvider.java",
+      "sha256": "42d731880c79bba8c87801d36a7e55f7f524ab486705d0367abb727ba2156bbd",
+      "size_bytes": 2362
+    },
+    {
+      "path": "android/app/src/main/java/com/qianxia/backup/TransferService.java",
+      "sha256": "7e9a836c74dc438114419e8c55940e2dfcc239628b501a7bc5add97efc695efe",
+      "size_bytes": 6593
+    },
+    {
+      "path": "android/app/src/main/java/com/qianxia/backup/Vault.java",
+      "sha256": "0b5fe46f56ada642457e7a1f24565cee1bb4cb7d1eaaa8efca01fccd7f6646a2",
+      "size_bytes": 2158
+    },
+    {
+      "path": "android/app/src/main/java/com/qianxia/backup/WorkState.java",
+      "sha256": "81b2882e8315c00dee374d1d90ea1ce9a776eaacd1893b38deecf2647d866cd2",
+      "size_bytes": 820
+    },
+    {
+      "path": "android/app/src/main/res/drawable/ic_app.xml",
+      "sha256": "078b9a2b9ef15afe1b9dfde19b33873c511dfc7880db93773b66309fe1fc8457",
+      "size_bytes": 444
+    },
+    {
+      "path": "android/app/src/main/res/drawable/ic_notify.xml",
+      "sha256": "cf99a6f4035e22867653c8f7b8e67672bfff967eafa297f68877e7fedc1e1864",
+      "size_bytes": 271
+    },
+    {
+      "path": "android/app/src/main/res/values/styles.xml",
+      "sha256": "7421e783b616acee16d3cc3454c1c86f668729b928ca96deeead94e63a0a2e4a",
+      "size_bytes": 410
+    },
+    {
+      "path": "android/build.sh",
+      "sha256": "1e828773e15bcb002ac91cfb88482775741a2fbdaec71e505aa2600fbc8759a8",
+      "size_bytes": 2685
+    },
+    {
+      "path": "android/licenses/Apache-2.0.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "size_bytes": 11358
+    },
+    {
+      "path": "android/licenses/EPL-2.0.txt",
+      "sha256": "0becf16567beb77fa252b7664631dd177c8f9a1889e48995b45379c7130e5303",
+      "size_bytes": 14198
+    },
+    {
+      "path": "android/licenses/ecj-about.html",
+      "sha256": "ee66d2fb3b4c0d2ed2e7f698bc9ed4e3d6cf77fa5caf40ad03296125db1ac5f0",
+      "size_bytes": 1460
+    },
+    {
+      "path": "android/test-core.sh",
+      "sha256": "4c05f61592a7cebee93221fa8597cbfe43dd7bae51c6c760ce7f82c81aaa90d0",
+      "size_bytes": 577
+    },
+    {
+      "path": "android/tests/CoreTest.java",
+      "sha256": "71424e27f6844bca7e4ba7ad3cc1e4fa5bb19e9defc87945e6a05c212fdb5c9e",
+      "size_bytes": 7116
+    },
+    {
+      "path": "android/tests/android-flow.py",
+      "sha256": "bd90cbed552a4210bc92e91206490af32b9c93068b9a8ebc62b2ce1ca0706a73",
+      "size_bytes": 3003
+    },
+    {
+      "path": "android/tests/build-fixture.sh",
+      "sha256": "f324bb7fa7694ee38685fb0a23f10f328c8f8aa8ecfd87ccecef066a378dc09e",
+      "size_bytes": 1280
+    },
+    {
+      "path": "android/tests/fixture/AndroidManifest.xml",
+      "sha256": "c18ca6bcf3eba6bef517745b69dc0a9672382e8dbccaf28cae8aa4af6cfa94b5",
+      "size_bytes": 506
+    },
+    {
+      "path": "android/tests/fixture/src/com/qianxia/fixture/MainActivity.java",
+      "sha256": "91c08ebba94917a7ec77d052ea3882f07b19091d845773a7c02409fa7050423d",
+      "size_bytes": 315
+    },
+    {
+      "path": "android/verification/TEST-REPORT.md",
+      "sha256": "0900864d55dcaab3e99cdf0baf734af3db626cc7be71948442e7c8a2f1e3e169",
+      "size_bytes": 2016
+    },
+    {
+      "path": "android/verification/core-tests.txt",
+      "sha256": "31bce0198f963751f3713dc94f4b1e030d3ef2bed8fb30343bb0357eb1aca85f",
+      "size_bytes": 1062
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-000.b64",
+      "sha256": "c7720e98d66596f37d7999174fe893b2e0332d40e48bedfb28f7b54026366c0b",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-001.b64",
+      "sha256": "03accc3d04adf18674b15a0abd46ccc91ad1dfec304b8b12eb16efe19ec0c712",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-002.b64",
+      "sha256": "96c70ecbecb054f5a66630ed646ad08d6d4dbb1582c85ca9d2623be64de62a08",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-003.b64",
+      "sha256": "017e5e0b634c98044ba405c9fc565fa6bfa9dddc0429f3a57097f5334fa61242",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-004.b64",
+      "sha256": "9dc472ac025ef4369aae9400be8b0bb40d4f78c78ff288991e39d46086b71de8",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-005.b64",
+      "sha256": "d2026c3f60c231a86bbdce888bf27edb7bf0a5e667d94ae6fc6e907ed625a5f8",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-006.b64",
+      "sha256": "db72f68408f5e66eb4fb806de7c951aa454ecb3611107863ddf5ed05c23dab33",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-007.b64",
+      "sha256": "f9e190b6b70c210445f541a1af7fa2f9d7baa8c4b39b9c34a93346480a5f0dbe",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-008.b64",
+      "sha256": "d1df7656f9a3c662f06253764a810ce930eec2229f5baa2cd1b0479f85bf7873",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-009.b64",
+      "sha256": "abd5120ba4107b849f3f9d18522eb70647d50952e81fbbd81c9be75b08d666f6",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-010.b64",
+      "sha256": "f7af8a957200da9b0038d0909a7cba7b34e5b49e0520ea071fe35a0d9408150d",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-011.b64",
+      "sha256": "3897c920d35b9d31db75ff41fd05d9b82e0da2fe401a7fc1464b0d9dd13daf90",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-012.b64",
+      "sha256": "611c707ec5dfd903c9cf501a56b30849c8e62a0633a7798c97738e37afa38310",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-013.b64",
+      "sha256": "897cb17ba6123f1820a3400299f38e3b1ac74e35760e43a1c4e203517bd36483",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-014.b64",
+      "sha256": "bca361285d12575b06094cb9385ae1650d20788538468e647ac90abc30ce3ee5",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-015.b64",
+      "sha256": "d290f1684aa0634c3ac2ae8298dc191ec83f51d23ba9a3ce1084e1bf83c11b92",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-016.b64",
+      "sha256": "965c290b1bae2b93f1038baa06b46fdff02ccd2207dfb249acebd8e48e685907",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0-source.zip/part-017.b64",
+      "sha256": "4491d5623636f1ea9395ac4034aaf370468e4f319e34aacce3346be5df747bf2",
+      "size_bytes": 467204
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0.apk/part-000.b64",
+      "sha256": "75eb022ae9e6b1f176271720037a4acd87f5b22b973ccfe1c37881ac3bd7e0ed",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0.apk/part-001.b64",
+      "sha256": "983dc8fde3b25436d708cfa6b94022f6688266e43822317ce4193a93cf2ee1c6",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0.apk/part-002.b64",
+      "sha256": "df4e69ce79c8dc7daaa0a2c0fb095379c6ec4e8012b11214d4008b9299b71144",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/Qianxia-1.0.0.apk/part-003.b64",
+      "sha256": "e630ace67390ec70a421464461a511f15c763ed0687e3e49050f2b877197adbb",
+      "size_bytes": 262972
+    },
+    {
+      "path": "artifacts/qianxia-figma-design.zip/part-000.b64",
+      "sha256": "7353f249b4b872acd1fe544f239e53f729b4a04e771f60104a386ac1c2afeb68",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/qianxia-figma-design.zip/part-001.b64",
+      "sha256": "3134264cbc692ef8d73602bb2f3575305d086d604804bae3ae415fb6288e8501",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/qianxia-figma-design.zip/part-002.b64",
+      "sha256": "cbd4cdccd3dda4fae1a41da6cf4437ee7d68b9a9a6256c582c69fd815da1933b",
+      "size_bytes": 524288
+    },
+    {
+      "path": "artifacts/qianxia-figma-design.zip/part-003.b64",
+      "sha256": "5602b54570e64506a63fe057974e3ddda96365fcf126d011b6c89502a61f2588",
+      "size_bytes": 147088
+    },
+    {
+      "path": "artifacts/qianxia-preview.png/part-000.b64",
+      "sha256": "f1f6137fe3c1afcc71104479356db56776c7be260f7dfe0eabeb23783ca5814a",
+      "size_bytes": 286912
+    },
+    {
+      "path": "restore_backup.py",
+      "sha256": "2574f8f16fad0bb823a73031362c4c402e3471ce59a4b8668b06f1eb914f73c5",
+      "size_bytes": 2423
+    },
+    {
+      "path": "signing/Qianxia-original-signing.enc.json",
+      "sha256": "adffc5006713a6db6124811741a19f9c06ef10ab61f53d8e172af5ff669ad08f",
+      "size_bytes": 4243
+    }
+  ],
+  "checks": [
+    "Every listed GitHub file read back and compared to upload bytes",
+    "All original archives and APK decoded and compared byte-for-byte",
+    "Original private key opened with original password and RSA signing verified",
+    "Original signing certificate matches APK signing certificate",
+    "Encrypted signing archive decrypted and password instructions matched original",
+    "Recovery key excluded from repository files"
+  ]
+}
