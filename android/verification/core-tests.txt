@@ -1,0 +1,30 @@
+PASS encrypted round trip 0 bytes
+PASS fresh salt and nonce 0
+PASS encrypted round trip 1 bytes
+PASS fresh salt and nonce 1
+PASS encrypted round trip 1024 bytes
+PASS fresh salt and nonce 1024
+PASS encrypted round trip 1048576 bytes
+PASS fresh salt and nonce 1048576
+PASS encrypted round trip 2097173 bytes
+PASS fresh salt and nonce 2097173
+PASS wrong password rejected
+PASS no plaintext output after password failure
+PASS modified ciphertext rejected
+PASS truncated terminal record rejected
+PASS trailing data rejected
+PASS header tamper rejected
+PASS cancellation aborts encryption
+PASS cancelled encrypted output removed
+PASS Zip Slip blocked
+PASS unsafe archive cleaned
+PASS normal archive extracted
+PASS HTTP requires explicit opt-in
+PASS connection test cleans its own test file
+PASS upload verified and published using MOVE
+PASS WebDAV list retains Unicode and rejects foreign origin
+PASS download matches uploaded SHA-256
+PASS download refuses local overwrite
+PASS remote filename traversal blocked
+PASS unauthorized account rejected
+ALL 29 CHECKS PASSED
