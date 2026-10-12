@@ -1,0 +1,150 @@
+{
+  "project": "迁匣 / Qianxia",
+  "version": "1.0.0",
+  "backup_date": "2026-10-12",
+  "files": [
+    {
+      "filename": "Qianxia-1.0.0.apk",
+      "size_bytes": 1376876,
+      "sha256": "7a6245a83e9a153a3828e31f12a7a49ac0c48e08d3d827e27239b961bfdb17ae",
+      "parts": [
+        {
+          "path": "artifacts/Qianxia-1.0.0.apk/part-000.b64",
+          "sha256": "75eb022ae9e6b1f176271720037a4acd87f5b22b973ccfe1c37881ac3bd7e0ed"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0.apk/part-001.b64",
+          "sha256": "983dc8fde3b25436d708cfa6b94022f6688266e43822317ce4193a93cf2ee1c6"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0.apk/part-002.b64",
+          "sha256": "df4e69ce79c8dc7daaa0a2c0fb095379c6ec4e8012b11214d4008b9299b71144"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0.apk/part-003.b64",
+          "sha256": "e630ace67390ec70a421464461a511f15c763ed0687e3e49050f2b877197adbb"
+        }
+      ]
+    },
+    {
+      "filename": "Qianxia-1.0.0-source.zip",
+      "size_bytes": 7035074,
+      "sha256": "db1a083f4b672cd12870be197fd5339bafafa9fe4b005d672299cefed4f564d3",
+      "parts": [
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-000.b64",
+          "sha256": "c7720e98d66596f37d7999174fe893b2e0332d40e48bedfb28f7b54026366c0b"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-001.b64",
+          "sha256": "03accc3d04adf18674b15a0abd46ccc91ad1dfec304b8b12eb16efe19ec0c712"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-002.b64",
+          "sha256": "96c70ecbecb054f5a66630ed646ad08d6d4dbb1582c85ca9d2623be64de62a08"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-003.b64",
+          "sha256": "017e5e0b634c98044ba405c9fc565fa6bfa9dddc0429f3a57097f5334fa61242"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-004.b64",
+          "sha256": "9dc472ac025ef4369aae9400be8b0bb40d4f78c78ff288991e39d46086b71de8"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-005.b64",
+          "sha256": "d2026c3f60c231a86bbdce888bf27edb7bf0a5e667d94ae6fc6e907ed625a5f8"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-006.b64",
+          "sha256": "db72f68408f5e66eb4fb806de7c951aa454ecb3611107863ddf5ed05c23dab33"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-007.b64",
+          "sha256": "f9e190b6b70c210445f541a1af7fa2f9d7baa8c4b39b9c34a93346480a5f0dbe"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-008.b64",
+          "sha256": "d1df7656f9a3c662f06253764a810ce930eec2229f5baa2cd1b0479f85bf7873"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-009.b64",
+          "sha256": "abd5120ba4107b849f3f9d18522eb70647d50952e81fbbd81c9be75b08d666f6"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-010.b64",
+          "sha256": "f7af8a957200da9b0038d0909a7cba7b34e5b49e0520ea071fe35a0d9408150d"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-011.b64",
+          "sha256": "3897c920d35b9d31db75ff41fd05d9b82e0da2fe401a7fc1464b0d9dd13daf90"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-012.b64",
+          "sha256": "611c707ec5dfd903c9cf501a56b30849c8e62a0633a7798c97738e37afa38310"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-013.b64",
+          "sha256": "897cb17ba6123f1820a3400299f38e3b1ac74e35760e43a1c4e203517bd36483"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-014.b64",
+          "sha256": "bca361285d12575b06094cb9385ae1650d20788538468e647ac90abc30ce3ee5"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-015.b64",
+          "sha256": "d290f1684aa0634c3ac2ae8298dc191ec83f51d23ba9a3ce1084e1bf83c11b92"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-016.b64",
+          "sha256": "965c290b1bae2b93f1038baa06b46fdff02ccd2207dfb249acebd8e48e685907"
+        },
+        {
+          "path": "artifacts/Qianxia-1.0.0-source.zip/part-017.b64",
+          "sha256": "4491d5623636f1ea9395ac4034aaf370468e4f319e34aacce3346be5df747bf2"
+        }
+      ]
+    },
+    {
+      "filename": "qianxia-figma-design.zip",
+      "size_bytes": 1289962,
+      "sha256": "6206a21332635481fb8847749ead9a5f2118715787a4a50726b212752dd35da5",
+      "parts": [
+        {
+          "path": "artifacts/qianxia-figma-design.zip/part-000.b64",
+          "sha256": "7353f249b4b872acd1fe544f239e53f729b4a04e771f60104a386ac1c2afeb68"
+        },
+        {
+          "path": "artifacts/qianxia-figma-design.zip/part-001.b64",
+          "sha256": "3134264cbc692ef8d73602bb2f3575305d086d604804bae3ae415fb6288e8501"
+        },
+        {
+          "path": "artifacts/qianxia-figma-design.zip/part-002.b64",
+          "sha256": "cbd4cdccd3dda4fae1a41da6cf4437ee7d68b9a9a6256c582c69fd815da1933b"
+        },
+        {
+          "path": "artifacts/qianxia-figma-design.zip/part-003.b64",
+          "sha256": "5602b54570e64506a63fe057974e3ddda96365fcf126d011b6c89502a61f2588"
+        }
+      ]
+    },
+    {
+      "filename": "qianxia-preview.png",
+      "size_bytes": 215182,
+      "sha256": "edb6c301ae9c24120f15eba3f1e6544d86991282c89fb27657150310844b1362",
+      "parts": [
+        {
+          "path": "artifacts/qianxia-preview.png/part-000.b64",
+          "sha256": "f1f6137fe3c1afcc71104479356db56776c7be260f7dfe0eabeb23783ca5814a"
+        }
+      ]
+    }
+  ],
+  "signing_backup": {
+    "path": "signing/Qianxia-original-signing.enc.json",
+    "sha256": "adffc5006713a6db6124811741a19f9c06ef10ab61f53d8e172af5ff669ad08f",
+    "original_zip_sha256": "774a0b6a9313df785e5a72881743b638decf1a524a092706779e00676a6cad33",
+    "certificate_sha256": "ade80b56e5dcc15839e6841e5bf3fefaad60fe9c3399d0ee4e1f03d6598b05ef"
+  },
+  "development_note": "未保存的 1.1 工作目录已被环境清理；本备份不包含 1.1 代码，不将 1.1 运行验证归属给本次 1.0 备份。"
+}
